@@ -22,7 +22,6 @@ Aplicación de escritorio desarrollada en **Java (Swing)** que implementa una ca
 
 - **Lenguaje:** Java
 - **GUI:** Java Swing
-- **Dificultad:** Intermedia (implementa parsing de expresiones matemáticas)
 
 ## Estructura
 
